@@ -57,7 +57,20 @@ http://dados.prefeitura.sp.gov.br/dataset/cadastro-de-escolas-municipais-conveni
 6. Acesse a aplicação:
     ```bash
     http://127.0.0.1:5000
-    
-![2024-09-30-16-17-17](https://github.com/user-attachments/assets/22e0f67e-81a4-4df3-b2db-73263cb4d073)
+
+
+<h3>Funcionamento</h3>
+<p>Selecione ou arraste o arquivo para a dropzone</p>
+
+https://github.com/user-attachments/assets/919edf0d-8613-4b10-a6bf-c4e9fad803d6
+
+<p>Após isso, o arquivo selecionado será encontrado na pasta uploads na raiz da pasta</p>
+
+https://github.com/user-attachments/assets/7a341b32-0c54-462a-9632-ca8556a377bd
+
+
+
+
+
 
 
