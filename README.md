@@ -36,6 +36,24 @@ http://dados.prefeitura.sp.gov.br/dataset/cadastro-de-escolas-municipais-conveni
 1. Clone ou faça download do repositório:
    ```bash
    git clone https://github.com/rcj-dev/test-csv.git
-´´´
 
-2.
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd projeto
+
+3. Crie um ambiente virtual:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # Para Windows use: venv\Scripts\activate
+
+4. Instale as dependências:
+    ```bash
+    pip install Flask pandas
+
+5. Rode a aplicação:
+    ```bash
+    python app.py
+
+6. Acesse a aplicação:
+    ```bash
+    http://127.0.0.1:5000
