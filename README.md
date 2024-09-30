@@ -57,3 +57,6 @@ http://dados.prefeitura.sp.gov.br/dataset/cadastro-de-escolas-municipais-conveni
 6. Acesse a aplicação:
     ```bash
     http://127.0.0.1:5000
+
+![sistema gif](https://github.com/user-attachments/assets/5c35dbf7-a500-4ec1-9163-efb47beb9316)
+
