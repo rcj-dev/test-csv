@@ -35,4 +35,7 @@ http://dados.prefeitura.sp.gov.br/dataset/cadastro-de-escolas-municipais-conveni
 
 1. Clone ou faça download do repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/rcj-dev/test-csv.git
+´´´
+
+2.
