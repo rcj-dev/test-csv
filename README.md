@@ -68,7 +68,9 @@ https://github.com/user-attachments/assets/919edf0d-8613-4b10-a6bf-c4e9fad803d6
 
 https://github.com/user-attachments/assets/7a341b32-0c54-462a-9632-ca8556a377bd
 
+<p>Ao checar o database será possível verificar que o arquivo CSV foi importado para a base com sucesso</p>
 
+https://github.com/user-attachments/assets/06be9292-e6d0-477a-a776-ea83fc1bc40c
 
 
 
