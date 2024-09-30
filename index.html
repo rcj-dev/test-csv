@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <!-- Meta Tags -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Rogerio Cardoso Junior" />
+    <meta name="description" content="Sistema desenvolvido para envio de arquivo CSV ao banco de dados"/>
+
+    <!-- Ícone e CSS -->
+    <link rel="icon" href="/static/images/upload-page.png" type="image/x-icon" />
+    <link rel="stylesheet" href="static/css/style.css" />
+
+    <title> CSV - Test </title>
+  </head>
+
+  <body>
+    <!-- Sessão principal -->
+    <section id="caixa" class="display">
+      <form id="upload-form" class="display" method="POST" enctype="multipart/form-data">
+
+        <!-- Título e descrição do Form -->
+        <div class="display">
+          <h1> Upload de Arquivo CSV </h1>
+          <h3> Clique no <a href="https://encurtador.com.br/BG5Zg" target="_blank" rel="noopener noreferrer">link</a> para acessar o arquivo a ser enviado.</h3>
+        </div>
+
+        <!-- Área e botão de envio -->
+        <div class="display" id="caixa-principal">
+
+          <!-- Área de drop do arquivo -->
+          <div id="dropzone" class="dropzone pointer display ease-in" for="escolher">
+            <img src="static/images/upload.png" alt="imagem de upload"/>
+            <span id="file-name"> Nenhum arquivo selecionado </span>
+            <input id="escolher" type="file" name="file" accept=".csv" required style="display: none"/>
+            <p> Solte o arquivo aqui ou clique para fazer upload. </p>
+          </div>
+
+          <button id="submit-button" class="pointer ease-in" type="button" aria-label="Enviar arquivo CSV"> Enviar </button>
+        </div>
+
+      </form>
+    </section>
+
+    <!-- JS -->
+    <script src="static/javascript/script.js"></script>
+  </body>
+</html>

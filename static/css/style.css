@@ -1,0 +1,116 @@
+/*importando fonte da página*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap");
+
+/* Zerando formatação padrão */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-style: none;
+}
+
+/* Definindo fonte padrão da página */
+body{
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+
+/* Estilizando textos */
+h1,
+h3,
+button,
+a {
+  font-weight: 400;
+}
+
+p {
+  font-weight: 300;
+}
+
+h3 {
+  color: #636363;
+}
+
+/* Personalizando o botão de envio */
+button {
+  width: 300px;
+  height: 50px;
+  background-color: #007bffb7;
+  color: #ffffff;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+  scale: 103%;
+  background-color: #0052aab7;
+}
+
+/* Definindo tamanho da imagem de upload */
+img {
+  width: 80px;
+}
+
+/* Formatação padrão reutilizada em elementos utilizando display flex */
+.display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Classe padrão ao passar o cursor do mouse nos elementos */
+.pointer {
+  cursor: pointer;
+}
+
+.ease-in{
+  transition: ease-in-out 0.5s;
+}
+
+/* Tamanho definido para agrupar os elementos */
+#caixa{
+  height: 100vh;
+}
+
+#upload-form{
+  width: 80%;
+  height: 90%;
+}
+
+/* Definindo o tamanho da div onde está localizado a dropzone e botão de envio */
+#caixa-principal {
+  width: 70%;
+  height: 400px;
+}
+
+/* Estilizando a caixa onde o arquivo é arrastado ou selecionado */
+#dropzone {
+  gap: 10px;
+  margin: 45px 0px 45px 0px;
+  width: 100%;
+  height: 100%;
+  border: 1.8px dashed #00000054;
+  border-radius: 10px;
+}
+
+/* Ao passar o mouse */
+#dropzone:hover {
+  background: #d6eaff;
+  border: 1.8px dashed #a1a1a1;
+}
+
+/* Definindo a cor ao arrastar um arquivo sobre a área */
+#dropzone.dragover {
+  border-color: #d6eaff;
+  background-color: #007bff1a;
+}
+
+/*Nome do arquivo*/
+#file-name {
+  margin-top: 10px;
+  font-weight: 200;
+  font-style: normal;
+  color: #007bff;
+}
