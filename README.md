@@ -58,7 +58,6 @@ http://dados.prefeitura.sp.gov.br/dataset/cadastro-de-escolas-municipais-conveni
     ```bash
     http://127.0.0.1:5000
 
-
 <h3>Funcionamento</h3>
 <p>Selecione ou arraste o arquivo para a dropzone</p>
 
@@ -72,7 +71,5 @@ https://github.com/user-attachments/assets/7a341b32-0c54-462a-9632-ca8556a377bd
 
 https://github.com/user-attachments/assets/06be9292-e6d0-477a-a776-ea83fc1bc40c
 
-
-
-
-
+<h3>Decisão do Design</h3>
+<p>Escolhi esta interface pois acredito ser algo de fácil compreensão facilitando todo tipo de usuário a realizar aquilo que está sendo proposto. Até mesmo a cor azul foi escolhida estratégicamente pois remete a confiança, segurança e tranquilidade, algo que irá agradar visualmente.</p>
