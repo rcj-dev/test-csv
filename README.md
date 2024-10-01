@@ -1,3 +1,20 @@
+<h3 align="center">Entre em contato!</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rogerio-cardoso-junior?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://github.com/user-attachments/assets/90397beb-064b-49e1-b0a1-6cab342114c2" width="30" />
+  </a>
+  <a href="https://w.app/36oru2" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8524722d-5e2a-400d-aec5-2aecdd339d53" width="30" />
+  </a>
+    <a href="https://www.instagram.com/jxnior____/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3e0379ba-1d94-4125-8ccf-fa52983fc6b0" width="30" />
+  </a>
+</p>
+
+___
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c41bcc26-c3da-4234-a65a-536839874da2" width="70" align="center"/>
 </p>
