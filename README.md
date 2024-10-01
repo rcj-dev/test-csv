@@ -56,11 +56,11 @@ http://dados.prefeitura.sp.gov.br/dataset/cadastro-de-escolas-municipais-conveni
 
 8. Para visualização do banco dentro do Visual Studio Code, aconselho utilizar a extensão - **SQLite3 Editor por (yy0931)**
 
-5. Rode a aplicação:
+9. Rode a aplicação:
     ```bash
     python app.py
 
-6. Acesse a aplicação:
+10. Acesse a aplicação:
     ```bash
     http://127.0.0.1:5000
 
