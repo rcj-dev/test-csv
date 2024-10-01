@@ -26,29 +26,35 @@ http://dados.prefeitura.sp.gov.br/dataset/cadastro-de-escolas-municipais-conveni
 
 <h3>Pré-Requisitos</h3>
 
-- **Python** (versão 3.6 ou superior)
+- **Visual Studio Code** (versão atual)
+- **Git** (Para clonagem do repositório)
+- **Python** (versão atual)
 - **Pandas** (para manipulação de dados)
 - **Flask** (para criação da aplicação web)
 - **SQLite3** (já incluído com o Python)
 
 <h3>Instalação</h3>
 
-1. Clone ou faça download do repositório:
+1. Realize o download da versão atual do Visual Studio Code - https://code.visualstudio.com/Download
+2. Instale o git para clonagem do repositório - https://git-scm.com/downloads
+
+3. Clone ou faça download do repositório:
    ```bash
    git clone https://github.com/rcj-dev/test-csv.git
+   
+4. Abra o repositório em seu **Visual Studio Code**
+5. Baixe e instale o python - https://www.python.org/downloads/
+**Obs:** Não se esqueça de instalar a extensão do Python em seu Visual Studio Code
 
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd projeto
-
-3. Crie um ambiente virtual:
+6. Crie um ambiente virtual:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # Para Windows use: venv\Scripts\activate
 
-4. Instale as dependências:
+7. Instale as dependências:
     ```bash
     pip install Flask pandas
+
+8. Para visualização do banco dentro do Visual Studio Code, aconselho utilizar a extensão - **SQLite3 Editor por (yy0931)**
 
 5. Rode a aplicação:
     ```bash
